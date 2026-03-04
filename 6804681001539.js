@@ -1,5 +1,5 @@
 console.log("อภิรักษ์")
-bibombi
+bibom
     // aprirak sriyubol
     // i will destroy your house
 
