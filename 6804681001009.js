@@ -1,1 +1,2 @@
-console.log ("sitthichai")
+console.log ("audomsilkiiawdam")
+อย่าเข้ามากูมีพระ
