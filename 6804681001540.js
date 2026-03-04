@@ -7,3 +7,4 @@ console.log("apisit")
 
 
 // i love my self
+// ติดหมี 
